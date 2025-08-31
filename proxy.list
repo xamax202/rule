@@ -15,7 +15,7 @@ IP-CIDR,77.83.38.156/32
 DOMAIN,7pal.short.gy
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,newtvsuper.com
+# DOMAIN-SUFFIX,newtvsuper.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,dpdns.org
 
@@ -42,6 +42,7 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,172.104.93.80/32,no-resolve
+
 
 
 
