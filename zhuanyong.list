@@ -1,0 +1,15 @@
+# 代理补充列表
+# DOMAIN,api.ipify.org
+# DOMAIN,iptv.vip-tptv.xyz
+# DOMAIN,smt.520761.xyz
+
+# 域名后缀匹配
+# DOMAIN-SUFFIX,newtvsuper.com
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,stream-link,🎥 专用手动
+
+# 国外DNS
+# DOMAIN-SUFFIX,dns.google
+# DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
