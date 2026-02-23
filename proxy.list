@@ -18,6 +18,8 @@ DOMAIN,7pal.short.gy
 # DOMAIN-SUFFIX,newtvsuper.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,xxip9.top
+DOMAIN-SUFFIX,akadatel.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -42,6 +44,7 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 # IP-CIDR,172.104.93.80/32,no-resolve
+
 
 
 
