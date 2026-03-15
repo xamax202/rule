@@ -4,7 +4,6 @@ DOMAIN,iptv.vip-tptv.xyz
 DOMAIN,smt.520761.xyz
 # 6-12 a1xs  13-14 xc
 DOMAIN,a1xs.vip 
-DOMAIN,zeabur.com
 DOMAIN,primestreams.tv          
 IP-CIDR,206.212.244.164/32     
 IP-CIDR,89.187.179.148/32       
@@ -19,7 +18,9 @@ DOMAIN,7pal.short.gy
 # DOMAIN-SUFFIX,newtvsuper.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,zeabur.com
 # DOMAIN-SUFFIX,xxip9.top
+
 # DOMAIN-SUFFIX,akadatel.com
 
 # 域名关键字匹配
